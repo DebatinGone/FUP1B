@@ -1,0 +1,63 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+23
+'conversor de unidades'
+4
+1
+32
+'dame una cantidad en megabytes'
+5
+1
+2
+N1
+6
+3
+9
+resultado
+18
+((N1*1024)*1024)*8
+10
+resultado1
+11
+resultado/8
+10
+resultado2
+15
+resultado1/1024
+6
+2
+10
+resultado3
+7
+N1/1024
+10
+resultado4
+15
+resultado3/1024
+4
+1
+36
+'el resultado en bits es:',resultado
+4
+1
+38
+'el resultado en bytes es:',resultado1
+4
+1
+42
+'el resultado en kilobytes es:',resultado2
+4
+1
+42
+'el resultado en gigabytes es:',resultado3
+4
+1
+42
+'el resultado en terabytes es:',resultado4
+1

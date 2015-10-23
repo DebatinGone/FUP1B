@@ -1,0 +1,87 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+24
+'tiendita de la esquina'
+4
+1
+376
+'       productos                                                      papas $8                                                               refresco $10                                                          galletas $10                                                           gomitas $6                                                             tortas compuestas $15'
+4
+1
+40
+'si no quieres un producto ingresa cero'
+4
+1
+39
+'dame el numero de papas que te llevas'
+5
+1
+1
+P
+4
+1
+43
+'dame el numero de refrescos que te llevas'
+5
+1
+1
+R
+4
+1
+42
+'dame el numero de galletas que te llevas'
+5
+1
+2
+g1
+4
+1
+41
+'dame el numero de gomitas que te llevas'
+5
+1
+2
+g2
+4
+1
+40
+'dame el numero de tortas que te llevas'
+5
+1
+1
+T
+6
+1
+10
+resultado1
+24
+P*8+R*10+g1*10+g2*6+T*15
+4
+1
+26
+'total a pagar',resultado1
+4
+1
+56
+'ingresa la cantidad de efectivo con la que vas a pagar'
+5
+1
+1
+E
+6
+1
+7
+cambio1
+12
+E-resultado1
+4
+1
+23
+'tu cambio es ',cambio1
+1

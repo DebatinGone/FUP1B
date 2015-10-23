@@ -1,0 +1,45 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+39
+'programa para sacar una regla de tres'
+4
+1
+16
+'dame un numero'
+5
+1
+2
+N1
+4
+1
+18
+'dame otro numero'
+5
+1
+2
+N2
+4
+1
+18
+'dame otro numero'
+5
+1
+2
+N3
+6
+1
+9
+resultado
+8
+N3*N2/N1
+4
+1
+30
+'el resultado es' , resultado 
+1

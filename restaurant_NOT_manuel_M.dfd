@@ -1,0 +1,66 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+18
+'restaurant mamon'
+4
+1
+19
+'ingresa tu cuenta'
+5
+1
+2
+C1
+7
+0
+1
+12
+NOT(C1<1000)
+6
+2
+8
+propina2
+7
+0.16*C1
+6
+total2
+11
+C1+propina2
+4
+1
+28
+'la propina es de:',propina2
+4
+1
+29
+'el total a pagar es:',total2
+13
+6
+2
+8
+propina1
+7
+0.10*C1
+6
+total1
+11
+C1+propina1
+4
+1
+28
+'la propina es de:',propina1
+4
+1
+29
+'el total a pagar es:',total1
+13
+4
+1
+35
+'gracias por gastar su dinero aqui'
+1

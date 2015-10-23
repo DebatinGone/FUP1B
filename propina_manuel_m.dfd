@@ -1,0 +1,57 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+23
+'calculador de propina'
+4
+1
+9
+'cuenta:'
+5
+1
+2
+C1
+4
+1
+17
+'no. de personas'
+5
+1
+2
+P1
+4
+1
+37
+'el porcentaje de propina es del 10%'
+6
+3
+7
+propina
+7
+C1*0.10
+6
+Tpagar
+10
+propina+C1
+2
+TP
+9
+Tpagar/P1
+4
+1
+21
+'propina es:',propina
+4
+1
+23
+'total a pagar:',Tpagar
+4
+1
+31
+'total a pagar por persona:',TP
+1

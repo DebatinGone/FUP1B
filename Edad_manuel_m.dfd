@@ -1,0 +1,63 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+22
+'Dime que edad tienes'
+5
+1
+2
+E1
+7
+0
+1
+19
+(E1>=0) AND(E1<=12)
+7
+0
+1
+20
+(E1>=13) AND(E1<=18)
+7
+0
+1
+21
+(E1 >=19) AND(E1<=29)
+7
+0
+1
+20
+(E1>=30) AND(E1<=60)
+4
+1
+19
+'Eres Adulto mayor'
+13
+4
+1
+13
+'Eres Adulto'
+13
+13
+4
+1
+12
+'Eres joven'
+13
+13
+4
+1
+18
+'Eres adolescente'
+13
+13
+4
+1
+14
+'Eres un niño'
+13
+1

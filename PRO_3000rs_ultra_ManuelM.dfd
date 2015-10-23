@@ -1,0 +1,121 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+18
+'PRO 3000rs ultra'
+4
+1
+35
+'ingresa los kilos de ropa a lavar'
+5
+1
+1
+n
+7
+0
+1
+5
+n>=21
+7
+0
+1
+16
+(n>=0)AND(n<=10)
+7
+0
+1
+17
+(n>=11)AND(n<=15)
+7
+0
+1
+17
+(n>=16)AND(n<=20)
+13
+4
+1
+22
+'Nivel maximo de agua'
+13
+13
+4
+1
+22
+'Nivel normal de agua'
+13
+4
+1
+63
+'ingresa el tipo de ropa
+(1)delicada
+(2)normal
+(3)muy sucia'
+5
+1
+1
+R
+7
+0
+1
+3
+R=1
+7
+0
+1
+3
+R=2
+7
+0
+1
+3
+R=3
+7
+0
+1
+4
+R>=4
+13
+4
+1
+44
+'Eres un IDIOTA este tipo de ropa no existe'
+13
+13
+4
+1
+58
+'La ropa esta muy sucia
+el tiempo de lavado es de 20min.'
+13
+13
+4
+1
+53
+'La ropa es normal
+el tiempo de lavado es de 10min.'
+13
+13
+4
+1
+55
+'La ropa es delicada 
+el tiempo de lavado es de 5min.'
+13
+13
+4
+1
+22
+'Nivel minimo de agua'
+13
+13
+4
+1
+56
+'eres un IDIOTA no se puede lavar esta cantidad de ropa'
+13
+1
