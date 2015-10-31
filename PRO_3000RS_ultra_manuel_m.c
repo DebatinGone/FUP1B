@@ -2,8 +2,13 @@
 //libreria deE/S
 int K;
 int R;
+char x;
+char y;
 int main()
 {//inicio
+y='s';
+while(y=='s')
+{
 printf("PRO 3000RS ultra\n");
 printf("ingresa la cantidad de ropa a lavar\n");
 scanf("%d",&K);
@@ -27,6 +32,19 @@ if(K>=0 && K<=20)
 			}
 		}
 	}
+	break;
+}
+else
+{
+printf("eres un IDIOTA no se puede lavar esta cantidad de ropa\n");
+printf("decea reintentar ingrese s=(si) o n=(no)\n");
+fflush(stdin);
+scanf("%s",&y);
+}
+}
+	x='s';
+	while(x=='s')
+	{
 	printf("ingresa el tipo de ropa a lavar\ndelicada(1)\nnormal(2)\nmuy sucia(3)\n");
 	scanf("%d",&R);
 	switch(R)
@@ -48,13 +66,13 @@ if(K>=0 && K<=20)
 		}
 		default:
 	    {
-		    printf("eres un IDIOTA este tipo de ropa no existe");
+		    printf("eres un IDIOTA este tipo de ropa no existe\n");
+		    printf("decea reintentar ingrese s=(si) o n=(no)\n");
+		    fflush(stdin);
+		    scanf("%s",&x);
 		    break;
 	    }
 	}
-}
-else
-{
-	printf("eres un IDIOTA no se puede lavar esta cantidad de ropa");
-}
+	break;
+    }
 }//fin

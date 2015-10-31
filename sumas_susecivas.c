@@ -9,9 +9,8 @@ int main()
 	scanf("%d",&c);
 	while(i<=(c-1))
 	{
-		a=a+b;
-		i=i+1;
-			
+		a=a+b;//para abreviar //variable+=otracosa
+		i=i+1;//para abreviar i=i+1--->//i++;
 	}
 	printf("%d",a);
 }
